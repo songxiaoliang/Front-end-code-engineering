@@ -1,2 +1,2 @@
 # Front-end-code-engineering
-Front-end code engineering, lerna + yarn workspace + pnpm
+Front-end code engineering, base monorepo, lerna + yarn workspace + pnpm
