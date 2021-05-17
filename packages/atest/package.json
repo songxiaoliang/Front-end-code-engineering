@@ -1,0 +1,26 @@
+{
+  "name": "atest",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Songlcy <songxlcy@gmail.com>",
+  "homepage": "https://github.com/songxiaoliang/Front-end-code-engineering#readme",
+  "license": "ISC",
+  "main": "lib/atest.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songxiaoliang/Front-end-code-engineering.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/songxiaoliang/Front-end-code-engineering/issues"
+  }
+}
